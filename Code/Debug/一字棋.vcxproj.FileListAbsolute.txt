@@ -1,0 +1,3 @@
+C:\Users\hw\Desktop\程序设计基础课程设计\一字棋\Debug\一字棋.exe
+C:\Users\hw\Desktop\程序设计基础课程设计\一字棋\Debug\一字棋.pdb
+C:\Users\hw\Desktop\数据结构课程设计\一字棋\Debug\一字棋.exe
